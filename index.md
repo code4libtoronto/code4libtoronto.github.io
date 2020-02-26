@@ -14,7 +14,7 @@ There is more to code4lib than just the Toronto chapter. To engage with the glob
 
 ## Who we are
 
-code4lib Toronto is a pretty much self-organized group, but [Kaitlin Newson](mailto:kaitlin.newson@gmail.com) ([@kaitlinnewson](https://twitter.com/kaitlinnewson)), Rachel Wang, May Chan and [Thomas Guignard](mailto:tom@timtom.ca) ([@timtomch](https://twitter.com/timtomch)) are coordinating things. [Get in touch with us](mailto:code4libtoronto@gmail.com) if you'd like to suggest a discussion topic, host one of our meetups, or just to say hi!
+code4lib Toronto is a pretty much self-organized group, but [Kaitlin Newson](mailto:kaitlin.newson@gmail.com) ([@kaitlinnewson](https://twitter.com/kaitlinnewson)), [Rachel Wang](mailto:rachel@rwang.ca)[@rwangca](https://twitter.com/rwangca) , May Chan and [Thomas Guignard](mailto:tom@timtom.ca) ([@timtomch](https://twitter.com/timtomch)) are coordinating things. [Get in touch with us](mailto:code4libtoronto@gmail.com) if you'd like to suggest a discussion topic, host one of our meetups, or just to say hi!
 
 ## Upcoming events
 
